@@ -30,9 +30,9 @@
 ## 🌟 Proyectos Destacados
 
 - **[Portafolio Personal](https://eldiegomoreno.netlify.app/):** Sitio web con mis proyectos y contacto.
-- **[Sistema Drupal](https://benidorm.org/es):** Backend y Fronted con Symfony y Jquery.
-- **[Sistema Drupal](https://www.daimiel.es/):** Backend y Fronted con Symfony y Jquery.
-- **[Sistema Wordpress](https://www.garciabaquero.com/):** Backend y Fronted con Symfony.
+- **[Benidorm.org](https://benidorm.org/es):** Drupal Backend y Fronted con Symfony y Jquery.
+- **[Daimiel.es](https://www.daimiel.es/):** Drupal Backend y Fronted con Symfony y Jquery.
+- **[Garcia Baquero](https://www.garciabaquero.com/):** Wordpress Backend y Fronted con Symfony.
 
 ---
 
